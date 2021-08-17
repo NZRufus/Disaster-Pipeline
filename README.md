@@ -14,7 +14,7 @@ This is one of the projects in the Udacity Nanodegree program for Data Science. 
  - ML Pipeline Preparation.ipynb: This is the Jupyter Notebook involved with the development process
  - data: the folder that contains the messages and categories datasets in csv format
  - app: folder that contains the run.py to initiate the web app
- 
+ - This is all found on the Github repository https://github.com/NZRufus/Disaster-Pipeline
  
 
 ## 3.Program Execution ##
