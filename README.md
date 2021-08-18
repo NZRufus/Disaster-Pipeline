@@ -24,9 +24,13 @@ This is one of the projects in the Udacity Nanodegree program for Data Science. 
    * data/DisasterResponse.db
    
  - To run ML pipeline that trains classifier and saves:
-       * python train_classifier.py data/DisasterResponse.db models/classifier.pkl
+ 
+   * python train_classifier.py data/DisasterResponse.db models/classifier.pkl
+   
  - Run the following command in the app's directory to run your web app:
-       * python run.py
+ 
+   * python run.py
+  
  - Go to http://0.0.0.0:3001/ or http://localhost:3001/ or change profile to another host via env | grep WORK and repeat process
     
 ## 4. Outcomes ##
