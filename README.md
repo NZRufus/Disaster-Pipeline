@@ -19,7 +19,9 @@ This is one of the projects in the Udacity Nanodegree program for Data Science. 
 
 ## 3.Program Execution ##
  - To run ETL pipeline that cleans data and stores in database:
+       
        * python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv 
+       
        * data/DisasterResponse.db
  - To run ML pipeline that trains classifier and saves:
        * python train_classifier.py data/DisasterResponse.db models/classifier.pkl
