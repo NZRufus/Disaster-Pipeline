@@ -50,5 +50,5 @@ This is one of the projects in the Udacity Nanodegree program for Data Science. 
   
 ## 7. Acknowledgements ##
 
- * Appen for providing the data to train the model with
+ * Appen for providing the data to train the model and build project with.
 
